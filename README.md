@@ -13,6 +13,9 @@ Ensure requests and beautifulsoup4 installed using pip. Download and run "GetMov
 ## Example
 Suppose I just watched James Bond "Goldfinger" and loved the featured Aston Martin DB5 and wanted to know what other movies this car was featured in. I would enter the car's make (Aston Martin) and model (DB5) and the script would return all movies this car was featured in.
 
+![alt text](https://github.com/benjo1095/Cars-In-Movies/blob/main/figures/GoldfingerDB5.jpg)
+Image source: https://fortune.com/2018/08/20/james-bond-aston-martin-db5-goldfinger/
+
 ![alt text](https://github.com/benjo1095/Cars-In-Movies/blob/main/figures/DemoOfMoviesFeatCar.jpg)
 
 ## Next Steps/Work In Progress
